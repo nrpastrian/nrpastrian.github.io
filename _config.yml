@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Pastrian"
-  avatar           : "profile.png"
+  avatar           : "pitt_pic.png"
   bio              : "Econ PhD Student at Pitt"
-  location         : "Location"
+  location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nrpastrian"
   google_plus      :
   keybase          :
   instagram        :
