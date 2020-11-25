@@ -2,6 +2,8 @@
 main:
   #- title: "Publications"
   #  url: /publications/
+  - title: "Publications"
+    url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
