@@ -13,4 +13,3 @@ I hold a BA and MA in Economics from [Pontificia Universidad Catolica de Chile](
 
 ## Work in progress
 [Screening with behavioral buyers](nrpastrian.github.io/files/draft_screening_20201124.pdf). Last update: November 24, 2020
-{% Revenue maximization with imperfect information. Based on my master thesis, draft coming soon. Slides available upon request %}
