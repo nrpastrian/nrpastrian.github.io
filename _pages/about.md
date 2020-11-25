@@ -7,6 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm PhD student at [Econ@Pitt](https://www.econ.pitt.edu/), working on mechanism design and political economy.
-
-Work in progress...
+Hi! I'm a PhD student in Economics at [University of Pittsburgh](https://www.econ.pitt.edu/). I'm a microeconomic theorist working on mechanism design, industrial organization and political economy.
