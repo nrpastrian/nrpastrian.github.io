@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV]{nrpastrian.github.io/files/cv_20201219.pdf}
 
 Education
 ======
-* B.A. in Economics, Universidad Catolica de Chile, 2014
-* M.A. in Economics, Universidad Catolica de Chile, 2015
 * Ph.D in Economics, University of Pittsburgh, 2023 (expected)
+* M.A. in Economics, Universidad Catolica de Chile, 2015
+* B.A. in Economics, Universidad Catolica de Chile, 2014
+
