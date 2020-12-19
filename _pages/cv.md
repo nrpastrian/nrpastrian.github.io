@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Complete [CV](nrpastrian.github.io/files/cv_20201219.pdf)
+Full version [here](nrpastrian.github.io/files/cv_20201219.pdf)
 
 Education
 ======
