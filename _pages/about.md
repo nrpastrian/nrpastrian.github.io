@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I'm a PhD student in Economics at [University of Pittsburgh](https://www.econ.pitt.edu/). I'm a microeconomic theorist working on mechanism design, industrial organization and political economy.
 
-I hold a BA and MA in Economics from [Pontificia Universidad Catolica de Chile](https://economia.uc.cl/). 
+I hold a BA and a MA in Economics from [Pontificia Universidad Catolica de Chile](https://economia.uc.cl/). 
 
 [Link to CV](https://nrpastrian.github.io/nrpastrian.github.io/files/cv_20201219.pdf)
 
