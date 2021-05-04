@@ -15,6 +15,6 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 
 ## Work in progress
 * [Screening with Behavioral Buyers](https://nrpastrian.github.io/files/draft_screening_20201124.pdf). Last update: November 24, 2020
-* Surplus Extraction with Behavioral Types. [Poster](https://nrpastrian.github.io/files/poster_extraction.pdf). Draft: coming soon. 
+* Surplus Extraction with Behavioral Types. Draft: coming soon. 
 * Revenue Maximization with Imperfect Information
 * Regional Disparities in State Capacity and Voting for Decentralization Reforms (with [Martin Besfamille](https://economia.uc.cl/?profesor=martin-besfamille) and [Amedeo Piolatto](https://sites.google.com/site/piolatto/))
