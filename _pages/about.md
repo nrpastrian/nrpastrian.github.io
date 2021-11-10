@@ -14,9 +14,8 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
 ## Work in progress
-* Surplus Extraction with Behavioral Types. Last update: November 8, 2021 
-
-    [[PDF]](https://nrpastrian.github.io/files/surplus_extraction_behavioral.pdf) [[arXiv:2109.06354]](https://arxiv.org/abs/2111.00061) 
+* Surplus Extraction with Behavioral Types. Last update: November 8, 2021
+  [[PDF]](https://nrpastrian.github.io/files/surplus_extraction_behavioral.pdf) [[arXiv:2109.06354]](https://arxiv.org/abs/2111.00061) 
 * [Screening with Behavioral Buyers](https://nrpastrian.github.io/files/screening_behavioral.pdf). Last update: July 1, 2021
 
 * Revenue Maximization with Imperfect Information. New version coming soon...
