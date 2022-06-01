@@ -15,7 +15,6 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 
 ## Research
 Work in progress:
-
 * Monopolistic Screening with Buyers Who Sample. Draft coming soon
 * Full Surplus Extraction and Consideration Sets (supersedes Surplus Extraction with Behavioral Types). Draft coming soon. 
 * Surplus Extraction with Behavioral Types. Last update: November 8, 2021
@@ -27,13 +26,13 @@ Work in progress:
 
 ## Teaching
 
-# University of Pittsburgh
+University of Pittsburgh
 
 * Instructor for Game Theory Summer 2021, Summer 2022
 * TA for Introduction to Microeconomic Theory (undergraduate). Spring 2020, Fall 2020
 * TA for Advanced Microeconomic Theory (graduate). Fall 2019
 
-# Universidad Adolfo Ibañez School of Engineering
+Universidad Adolfo Ibañez School of Engineering
 
 * Instructor for Principles of Economics (undergraduate) Spring 2018
 * Instructor for Microeconomics (undergraduate) Spring 2018
