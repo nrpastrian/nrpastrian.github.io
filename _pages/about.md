@@ -27,15 +27,15 @@ Work in progress:
 
 ## Teaching
 
-* University of Pittsburgh
+# University of Pittsburgh
 
-Instructor for Game Theory Summer 2021, Summer 2022
-TA for Introduction to Microeconomic Theory (undergraduate). Spring 2020, Fall 2020
-TA for Advanced Microeconomic Theory (graduate). Fall 2019
+* Instructor for Game Theory Summer 2021, Summer 2022
+* TA for Introduction to Microeconomic Theory (undergraduate). Spring 2020, Fall 2020
+* TA for Advanced Microeconomic Theory (graduate). Fall 2019
 
-* Universidad Adolfo Ibañez School of Engineering
+# Universidad Adolfo Ibañez School of Engineering
 
-Instructor for Principles of Economics (undergraduate) Spring 2018
-Instructor for Microeconomics (undergraduate) Spring 2018
+* Instructor for Principles of Economics (undergraduate) Spring 2018
+* Instructor for Microeconomics (undergraduate) Spring 2018
 
 
