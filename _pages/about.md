@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a PhD student in Economics at [University of Pittsburgh](https://www.econ.pitt.edu/). I'm a microeconomic theorist working on mechanism design, industrial organization and political economy. My research focus on problems with asymmetric information and boundedly rational agents.
+Hi! I'm a PhD candidate in Economics at [University of Pittsburgh](https://www.econ.pitt.edu/). I'm a microeconomic theorist working on mechanism design, industrial organization and political economy. My research focus on problems with asymmetric information and boundedly rational agents.
 
 I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chile](https://economia.uc.cl/). 
 
