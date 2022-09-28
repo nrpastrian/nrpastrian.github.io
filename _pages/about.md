@@ -16,6 +16,9 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 ## Research
 Work in progress:
 * Monopolistic Screening with Buyers Who Sample. Draft coming soon
+<details><summary>Code example</summary><p>
+  Here goes the abstracts :)
+</p></details>
 * Full Surplus Extraction and Consideration Sets (supersedes Surplus Extraction with Behavioral Types). Draft coming soon. 
 * Surplus Extraction with Behavioral Types. Last update: November 8, 2021
   [[PDF]](https://nrpastrian.github.io/files/surplus_extraction_behavioral.pdf) [[arXiv:2109.06354]](https://arxiv.org/abs/2111.00061) 
