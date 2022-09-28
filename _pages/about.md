@@ -15,9 +15,10 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 
 ## Research
 Work in progress:
-* Monopolistic Screening with Buyers Who Sample. Draft coming soon. <details>
+* Monopolistic Screening with Buyers Who Sample. Draft coming soon. 
+  <details>
   <summary>Abstract</summary>
-<p>We study a monopolistic screening problem with boundedly rational buyers and a noisy communication technology. In particular, the seller will be able to design a menu with a finite number of quality-price pairs but the buyers will not be able to observe the full menu. Instead, buyers will have access only to a finite number of samples from the menu of alternatives offered by the seller and then decide which alternative to purchase if any. This procedure give arise to random consideration sets from the perspective of the buyers. We show that if there is a single sample available, the seller will optimally choose to offer a single alternative, while if two samples are available then neither offering a single alternative nor two alternatives is necessarily optimal.</p>
+  <p>We study a monopolistic screening problem with boundedly rational buyers and a noisy communication technology. In particular, the seller will be able to design a  menu with a finite number of quality-price pairs but the buyers will not be able to observe the full menu. Instead, buyers will have access only to a finite number of samples from the menu of alternatives offered by the seller and then decide which alternative to purchase if any. This procedure give arise to random consideration sets from the perspective of the buyers. We show that if there is a single sample available, the seller will optimally choose to offer a single alternative, while if two samples are available then neither offering a single alternative nor two alternatives is necessarily optimal.</p>
 </details>
 
 * Full Surplus Extraction and Consideration Sets (supersedes Surplus Extraction with Behavioral Types). Draft coming soon. <details><summary>Abstract</summary><p>
