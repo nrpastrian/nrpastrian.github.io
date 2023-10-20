@@ -15,7 +15,7 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 
 ## Research
 Work in progress:
-* Monopolistic Screening with Buyers Who Sample. Draft coming soon. 
+* Product Line Design with Frictions. Draft coming soon. 
   <details>
   <summary>Abstract</summary>
   
@@ -34,6 +34,7 @@ Work in progress:
 ## Teaching
 
 University of Pittsburgh
+* Instructor for Economic Modeling Skills, Fall 2023
 * Instructor for Intermediate Microeconomics. Summer 2023
 * Instructor for Game Theory. Summer 2021, Summer 2022
 
