@@ -14,7 +14,7 @@ I hold a BA and an MA in Economics from [Pontificia Universidad Catolica de Chil
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
 ## Research
-Work in progress:
+Working papers:
 * Product Line Design with Frictions. Draft coming soon. 
   <details>
   <summary>Abstract</summary>
@@ -28,7 +28,8 @@ Work in progress:
   <p>We examine the surplus extraction problem in a mechanism design setting with consideration sets. We model consideration sets as the subset of types a particular type considers as possible deviations. Our model is built upon a discrete version of the reduced mechanism design problem in McAfee and Reny (1992), and the partially verifiable types in Green and Laffont (1986) for the modeling of consideration sets. We identify the inverse consideration sets as the key elements to determine whether full surplus extraction is feasible or not, and characterize the conditions that guarantee full surplus extraction to be feasible in this setting. We show that the independence condition identified by Cremer and McLean (1988) remains sufficient for full surplus extraction in our setting but could be relaxed to obtain a more general characterization. Finally, we discuss some applications and limitations of our model.</p></details>
 
 
-
+Work in progress:
+* Reforming Auctions with Behavioral Bidders
 * Regional Disparities in State Capacity and Voting for Decentralization Reforms (with [Martin Besfamille](https://economia.uc.cl/?profesor=martin-besfamille) and [Amedeo Piolatto](https://sites.google.com/site/piolatto/))
 
 ## Teaching
