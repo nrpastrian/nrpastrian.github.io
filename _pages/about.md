@@ -11,7 +11,11 @@ Hi! I'm a PhD candidate in Economics at [University of Pittsburgh](https://www.e
 
 I hold a BA in Economics and Business and an MA in Economics from [Pontificia Universidad Catolica de Chile](https://economia.uc.cl/). 
 
+I am on the job market during the 2023-2024 academic year. 
+
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
+
+
 
 ## Research
 Working papers:
