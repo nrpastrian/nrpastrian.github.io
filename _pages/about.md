@@ -11,7 +11,7 @@ Hi! I'm a PhD candidate in Economics at [University of Pittsburgh](https://www.e
 
 I hold a BA in Economics and Business and an MA in Economics from [Pontificia Universidad Catolica de Chile](https://economia.uc.cl/). 
 
-I am on the job market during the 2023-2024 academic year. 
+I'm on the academic 2023-2024 job market and available for interviews. 
 
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
@@ -39,7 +39,7 @@ Work in progress:
 ## Teaching
 
 University of Pittsburgh
-* Instructor for Economic Modeling Skills, Fall 2023
+* Instructor for Economic Modeling Skills. Fall 2023, Spring 2024
 * Instructor for Intermediate Microeconomics. Summer 2023
 * Instructor for Game Theory. Summer 2021, Summer 2022
 
