@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a PhD Candidate in Economics at [University of Pittsburgh](https://www.econ.pitt.edu/). I'm a microeconomic theorist working on mechanism design and market design. My research focuses on problems of asymmetric information and boundedly rational agents, with applications in Industrial Organization and Public Economics.
+Hi! I am a Research Fellow in the 
+[Department of Economics, Social Studies, Applied Mathematics, and Statistics (ESOMAS) at the University of Turin, Italy](https://www.esomas-en.unito.it/do/home.pl), and I recently obtained my Ph.D. in Economics from the [University of Pittsburgh](https://econ.pitt.edu). I am originally from Chile, where I graduated with a BA in Economics and Business and an MA in Economics from Pontificia Universidad Católica de Chile.
 
-I hold a BA in Economics and Business and an MA in Economics from [Pontificia Universidad Católica de Chile](https://economia.uc.cl/). 
+I am a microeconomic theorist working on mechanism and market design. My current research focuses on: (1) studying agents' and firms' behavior in settings with information frictions (e.g., asymmetric information, search costs, choice overload, inertia), especially in the presence of market power, (2) what types of regulation can help mitigate inefficiencies in markets where those frictions cannot be fully eliminated or directly controlled, and (3) how economic and political institutions interact in these types of markets. I'm particularly interested in applications that study the digital economy and online marketplaces.
 
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
