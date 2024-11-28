@@ -18,7 +18,7 @@ I am a microeconomic theorist working on mechanism and market design. My current
 
 ## Research
 Working papers:
-* Product Line Design with Frictions. [[Paper]](https://nrpastrian.github.io/files/pastrian_jmp.pdf)
+* Product Line Design with Frictions. [[Paper]](https://nrpastrian.github.io/files/productline_frictions.pdf)
   <details>
   <summary>Abstract</summary>
   
