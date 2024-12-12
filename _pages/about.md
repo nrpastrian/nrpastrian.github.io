@@ -10,7 +10,7 @@ redirect_from:
 Hi! I am a Postdoctoral Research Fellow in the 
 [Department of Economics, Social Studies, Applied Mathematics, and Statistics (ESOMAS) at the University of Turin, Italy](https://www.esomas-en.unito.it/do/home.pl), and I recently obtained my Ph.D. in Economics from the [University of Pittsburgh](https://econ.pitt.edu). I am originally from Chile, where I graduated with a BA in Economics and Business and an MA in Economics from Pontificia Universidad Católica de Chile.
 
-I am a microeconomic theorist working on mechanism and market design. My current research focuses on: (1) studying agents' and firms' behavior in settings with information frictions (e.g., asymmetric information, search costs, choice overload, inertia), especially in the presence of market power, and (2) how economic and political institutions interact in these types of markets.
+I am a microeconomic theorist working on (behavioral) mechanism and market design. I am interested in application in IO and Public Economics. My current research focuses on: (1) studying agents' and firms' behavior in settings with information frictions (e.g., asymmetric information, search costs, choice overload, inertia), especially in the presence of market power, and (2) how economic and political institutions interact in these types of markets.
 
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
