@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Información Asimétrica: el mercado de los autos usados
 ======
 *Diapositivas de la clase [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/slides.pdf)
