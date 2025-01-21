@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Clase: Información Asimétrica"
-permalink: /clase
+permalink: /clase/
 author_profile: true
 redirect_from:
   - /teaching
