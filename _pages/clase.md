@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 * Diapositivas de la clase [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/slides.pdf)
-* Guía de Ejercicios [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/ejercicios.pdf)
-* Soluciones Guía de Ejercicios [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/soluciones.pdf)
+* Guía de Ejercicios [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/guia.pdf)
+* Soluciones Guía de Ejercicios [Descargar](https://nrpastrian.github.io/nrpastrian.github.io/files/guia_soluciones.pdf)
 
