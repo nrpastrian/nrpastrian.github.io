@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a Postdoctoral Research Fellow in the 
+Hi! I am an Assistant Professor at the Institute of Social Science in Universidad de O'Higgins, Rancagua, Chile. Previously, I was a Postdoctoral Research Fellow in the 
 [Department of Economics, Social Studies, Applied Mathematics, and Statistics (ESOMAS) at the University of Turin, Italy](https://www.esomas-en.unito.it/do/home.pl), and I obtained my Ph.D. in Economics from the [University of Pittsburgh](https://econ.pitt.edu). I am originally from Chile, where I graduated with a BA in Economics and Business and an MA in Economics from Pontificia Universidad Católica de Chile.
 
 I am a microeconomic theorist working on (Behavioral) Mechanism/Market Design and Information Economics.
@@ -15,7 +15,7 @@ My current work focuses on problems with asymmetric information and boundedly ra
 
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
-
+This site is outdated. Please visit my new website [here](nicolaspastrian.github.io).
 
 ## Research
 Working papers:
