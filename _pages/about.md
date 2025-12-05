@@ -15,7 +15,7 @@ My current work focuses on problems with asymmetric information and boundedly ra
 
 [Link to CV](https://nrpastrian.github.io/files/cv.pdf)
 
-This site is outdated. Please visit my new website [here](nicolaspastrian.github.io).
+This site is outdated. Please visit my new website [here](https://nicolaspastrian.github.io/).
 
 ## Research
 Working papers:
